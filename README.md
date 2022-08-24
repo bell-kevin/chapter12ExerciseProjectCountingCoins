@@ -3,11 +3,11 @@ Chapter 12 Exercise Project: Counting Coins. You run a very successful ice cream
 
 For this project, you will use an enum named Coin, which specifies the name and the worth of each type of coin. See Fig 12.11a on p. 547 for an example of an enum with additional information. In the driver code, ask the user how many coins are a quarter, how many are a dime, and so on, and calculate the value of that pile of coins. Ask the user what they think the pile of coins is worth. Using the ternary or conditional operator, compare the user's guess to the value of the pile of coins to display either "You are correct" or "You are incorrect". 
 
-#incorrect guess
+# incorrect guess
 
 ![incorrect guess](https://github.com/bell-kevin/chapter12ExerciseProjectCountingCoins/blob/main/incorrectGuessCoins.PNG)
 
-#correct guess
+# correct guess
 
 ![correct guess](https://github.com/bell-kevin/chapter12ExerciseProjectCountingCoins/blob/main/correctGuessCoins.PNG)
 
