@@ -25,6 +25,6 @@ public class CountingCoins {
         double guess = computerKeyboardInput.nextDouble();
         String ternaryOutput = (guess == total) ? "You are correct" : "You are incorrect";
         System.out.println(ternaryOutput);
-        System.out.println("Total worth of those coins is $"+total);
+        System.out.printf("Total worth of those coins is $%(,.2f \n", total);
     } // end main  
 } // end class
